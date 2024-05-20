@@ -1,0 +1,1 @@
+ D:\\merged_partition_content\\Flutter\ Demo\\appointments-to-firestore-database-flutter-calendar\\.dart_tool\\flutter_build\\8ee7b2b04f708aea1097612b47dbba3c\\native_assets.yaml: 
